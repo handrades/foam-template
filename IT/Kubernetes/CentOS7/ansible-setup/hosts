@@ -1,0 +1,7 @@
+[masters]
+hk-master
+
+[workers]
+hk-node1
+hk-node2
+hk-node3
